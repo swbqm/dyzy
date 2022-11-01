@@ -5,10 +5,10 @@
       "dcVipFlag": "true",
       "dcPlayUrl": "true",
       "cateManual": {
-      "本接口来自": "1",
-      "公众号": "2",
-      "应用多多": "4",
-      "盗链可耻": "3"
+      "电影": "1",
+      "连续剧": "2",
+      "动漫": "4",
+      "综艺": "3"
       },
       "homeVodNode": "//section/section[position()>2]//ul[@class='resize_list']/li/a",
       "homeVodName": "/@title",
