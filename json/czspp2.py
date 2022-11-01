@@ -18,10 +18,10 @@ class Spider(Spider):  # 元类 默认的元类 type
     def homeContent(self, filter):
         result = {}
         cateManual = {
-            "接口来自": "dbtop250",
-            "公众号": "zuixindianying",
-            "应用多多": "dsj",
-            "盗链可耻": "gcj",
+            "豆瓣电影Top250": "dbtop250",
+            "最新电影": "zuixindianying",
+            "电视剧": "dsj",
+            "国产剧": "gcj",
             "美剧": "meijutt",
             "韩剧": "hanjutv",
             "番剧": "fanju",
