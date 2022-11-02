@@ -5,7 +5,7 @@
 "播放标题":"<span>&&</span>",
 "播放数组":"class=\"module-play-list&&</div>",
 "分类url":"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-"分类":"接口来自$1#公众号$2#应用多多$4#盗链可耻$3",
+"分类":"电影$1#电视剧$2#综艺$4#动漫$3",
 "筛选":{"1":[
       {
         "key": "cateId",
